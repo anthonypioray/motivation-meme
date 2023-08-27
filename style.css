@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+.img-bg {
+    border: solid white;
+    border-width: 5px;
+    width: 100%;
+    margin-top: 50px;
+}
+
+div.motivation-meme {
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+}
+
+p{
+    text-align: center;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+}
